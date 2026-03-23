@@ -4,4 +4,5 @@ where plu = 123
 and date = '2026-01-01'
 and prinsipal "Danone"
 and category = 'abc'
+and subccategory = 'ABD'
 
